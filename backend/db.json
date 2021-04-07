@@ -1,0 +1,84 @@
+{
+  "consultations": [
+    {
+      "id": 1,
+      "patientId": 1,
+      "date": "Fri Feb 05 2021 10:20:00 GMT-0300 (Brasilia Standard Time)"
+    },
+    {
+      "id": 2,
+      "patientId": 3,
+      "date": "Thu Feb 11 2021 09:00:00 GMT-0300 (Brasilia Standard Time)"
+    },
+    {
+      "id": 3,
+      "patientId": 2,
+      "date": "Thu Feb 11 2021 10:00:00 GMT-0300 (Brasilia Standard Time)"
+    },
+    {
+      "id": 4,
+      "patientId": 3,
+      "date": "Thu Feb 11 2021 13:00:00 GMT-0300 (Brasilia Standard Time)"
+    },
+    {
+      "patientId": 3,
+      "date": "Wed Apr 04 2012 14:30:00 GMT-0400 (Horário Padrão do Amazonas)",
+      "id": 5
+    },
+    {
+      "patientId": 3,
+      "date": "2021-04-13 04:20",
+      "id": 6
+    },
+    {
+      "patientId": 1,
+      "date": "2021-04-21 05:22",
+      "id": 7
+    },
+    {
+      "patientId": 3,
+      "date": "2021-04-12 02:32",
+      "id": 8
+    },
+    {
+      "patientId": 2,
+      "date": "2021-04-12 12:45",
+      "id": 9
+    },
+    {
+      "patientId": 1,
+      "date": "2021-04-03 11:50",
+      "id": 10
+    },
+    {
+      "patientId": 2,
+      "date": "2021-04-19 14:40",
+      "id": 11
+    },
+    {
+      "patientId": 2,
+      "date": "2021-04-14 14:41",
+      "id": 12
+    }
+  ],
+  "patients": [
+    {
+      "id": 1,
+      "first_name": "Frodo",
+      "last_name": "Baggins",
+      "email": "frodo.baggins@mail.com"
+    },
+    {
+      "id": 2,
+      "first_name": "Samwise",
+      "last_name": "Gamgee",
+      "email": "samwise.gamgee@mail.com"
+    },
+    {
+      "id": 3,
+      "first_name": "Saruman",
+      "last_name": "The White",
+      "email": "saruman.thewhite@mail.com"
+    }
+  ]
+}
