@@ -41,7 +41,7 @@ Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.co
 
 ```bash
 # Clone este repositório
-$ git clone https://gitlab.com/fogeid/desafio-tecnico-frontend-conexa.git
+$ git clone https://github.com/fogeid/Conexa-Plus.git
 
 # Entre na pasta
 $ cd backend
